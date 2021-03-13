@@ -8,7 +8,7 @@
   },
   "keywords": [
     "uniswap",
-    "default",
+    "moon",
     "list"
   ],
   "tokens": [
@@ -864,6 +864,20 @@
       "chainId": 42,
       "name": "Maker",
       "symbol": "MKR",
+      "decimals": 18
+    },
+    {
+      "address": "0xdf82c9014f127243ce1305dfe54151647d74b27a",
+      "chainId": 4,
+      "name": "Moons Token",
+      "symbol": "MOON",
+      "decimals": 18
+    },
+    {
+      "address": "0xe0d8d7b8273de14e628d2f2a4a10f719f898450a",
+      "chainId": 4,
+      "name": "Bricks",
+      "symbol": "BRICK",
       "decimals": 18
     }
   ]
